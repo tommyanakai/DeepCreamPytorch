@@ -11,7 +11,7 @@ DeepCreamPyTorch is a deep learning tool designed to seamlessly reconstruct part
 
 ## ✨ Features
 - **PyTorch Backend**: Rebuilt from the ground up with PyTorch for faster, more efficient processing.
-- **Comprehensive Training Code**: Train your own models with included scripts and clear instructions.
+- **Training Code**: Train your own models with included script (not tested yet).
 - **CLI Interface**: Streamlined command-line interface for easy model execution and configuration.
 - **Bug Fixes**: Addressed key issues from the original project for enhanced stability and output quality.
 
