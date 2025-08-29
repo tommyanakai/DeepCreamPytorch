@@ -40,7 +40,7 @@ python ./app.py
 ```bash
 python main.py --decensor_input ./decensor_input --decensor_input_original ./decensor_input_original --decensor_output ./decensor_output --is_mosaic False
 ```
-1. **Training (Not tested yet)**:
+4. **Training (Not tested yet)**:
 ```bash
 python train.py
 ```
