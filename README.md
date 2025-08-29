@@ -1,7 +1,6 @@
 # DeepCreamPyTorch
 *Reviving Anime Artworks with PyTorch-Powered Deep Learning*
 
-
 **DeepCreamPyTorch** is an unofficial PyTorch implementation of the original TensorFlow-based [DeepCreamPy](./README_old.md). This project enhances the original with a robust PyTorch backend, comprehensive training code, a user-friendly CLI, and critical bug fixes for improved performance and reliability.
 
 DeepCreamPyTorch is a deep learning tool designed to seamlessly reconstruct parts of anime-style artworks. Simply mark the areas to restore with green using an image editor (e.g., GIMP, Photoshop), and let our neural network intelligently fill in the highlighted regions with plausible content.
